@@ -29,12 +29,6 @@
       display: inline;
    }
 
-   .checkbox{
-      display: none;
-      position: relative;
-      right: -120px;
-   }
-
    .menu-icon:hover{
       display: block;
    }

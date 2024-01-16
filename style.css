@@ -1,7 +1,3 @@
-.hide {
-   display: none;
-}
-
 /* Font styles here */
 
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800&display=swap');
@@ -127,9 +123,6 @@ main {
    display: none;
 }
 
-.checkbox{
-   display: none;
-}
 
 /* Header styles */
 
