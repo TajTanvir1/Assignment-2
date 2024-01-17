@@ -21,17 +21,16 @@
 
    /* Nav styles */
 
-   .nav-manu {
+   .nav-menu {
       display: none;
    }
 
-   .menu-icon{
+   .nav-icon{
       display: inline;
+      padding: 10px;
+      font-size: 30px;
    }
 
-   .menu-icon:hover{
-      display: block;
-   }
 
    /* Banner styles */
 
@@ -207,7 +206,8 @@
 .content-ul{
    width: 90%;
 }
-.perfect-place-img{
+
+.perfect-place-img video{
    width: 100%;
 }
 .perfect-place-img img{
